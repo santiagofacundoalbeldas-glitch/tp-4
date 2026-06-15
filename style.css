@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(aqua, black, red );
+    font-family: 'Courier New', Courier, monospace; }
+img {
+    width: 200px;
+    height: 250px;
+}
+.tienda {
+    color:blue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.parteuno {
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.partedos {
+     margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 2%;
+}
+.card {
+    margin-left: 3%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.afuera {
+    color: blue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}

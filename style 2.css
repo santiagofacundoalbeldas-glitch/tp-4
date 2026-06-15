@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(blue);   
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.tienda {
+    color: yellow;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.componentes {
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.argentina {
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 2%;
+}
+
+.nose {
+    color: yellow;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card {
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 2%;
+}

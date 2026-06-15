@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(green);
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.memoria {
+    text-align: center;
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ram {
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.nose {
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 2%;
+}   
+
+.afuera {
+    text-align: center;
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card {
+    margin-left: 2%;
+    font-family: 'Courier New', Courier, monospace;
+}
